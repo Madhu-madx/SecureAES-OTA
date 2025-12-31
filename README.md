@@ -1,15 +1,5 @@
 # SecureAES-OTA
 SecureAES-OTA is a secure OTA firmware update system for ESP8266 that enables wireless firmware upgrades over HTTP using AES-128 encryption. Firmware integrity is verified using SHA-256 before safely flashing and rebooting into the updated firmware, ensuring reliable and secure updates for IoT devices.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bf377a4-75c3-4921-a66d-1d65e4316d1c" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/062acbcb-3065-4bc4-9783-6312d7b95a07" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b63e0451-2fc1-4066-824e-d8494817ef8b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14485e84-571e-40b2-aef3-994cdc417e65" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a834fa7-32e5-4b3d-8a03-26ad86e0bd5c" />
-# SecureAES-OTA
-
-SecureAES-OTA is a secure over-the-air (OTA) firmware update system for ESP8266 devices. It enables wireless firmware upgrades over HTTP using **AES-128-CBC** encrypted firmware binaries and verifies firmware integrity using **SHA-256** before safely flashing the update.
-
----
 
 ## 📌 Features
 
@@ -62,3 +52,14 @@ SecureAES-OTA is a secure over-the-air (OTA) firmware update system for ESP8266 
     * Decryption fails.
     * Hash verification fails.
     * Flash write fails.
+ 
+  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4bf377a4-75c3-4921-a66d-1d65e4316d1c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/062acbcb-3065-4bc4-9783-6312d7b95a07" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b63e0451-2fc1-4066-824e-d8494817ef8b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14485e84-571e-40b2-aef3-994cdc417e65" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a834fa7-32e5-4b3d-8a03-26ad86e0bd5c" />
